@@ -4,6 +4,7 @@
  *_isupper - checks if uppercase
  *
  *current mood - lowkey pissed @ Betty
+ *@c: character to be checked
  *Return: return 1 if uppercase, return 0 if lowercase
  */
 
