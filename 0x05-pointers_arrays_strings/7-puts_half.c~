@@ -1,0 +1,14 @@
+#include "main.h"
+#include "2-strlen.c"
+
+/**
+ *puts_half - puts half of int
+ *
+ *@str: string to split
+ */
+
+void puts_half(char *str)
+{
+int i;
+int oE = 0;
+  
