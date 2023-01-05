@@ -1,5 +1,13 @@
 #include <main.h>
 
+/**
+ *_sqrt_recursion - returns square root of a number
+ *
+ *@n:instance
+ *
+ *return: square
+ */
+
 int _sqrt_recursion(int n)
 {
     if (n < 0)
