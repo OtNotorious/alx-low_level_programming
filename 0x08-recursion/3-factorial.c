@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- *factorial() - recursive func
+ *factorial - factorial of number
  *
  *@n: param
  *
- *return: 1, -1
+ *return: returns factor or -1
  */
 
 int factorial(int n)
