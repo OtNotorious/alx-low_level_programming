@@ -5,9 +5,7 @@
  *
  *@s: param
  *
- *@char *s: param
- *
- *return: 0
+ *return: length of string
  */
 
 int _strlen_recursion(char *s)
